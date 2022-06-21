@@ -99,22 +99,22 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Tree
 
-| Status | Question & Submission Link | My Implementation |
-| ------ | -------------------------- | --------------------- |
-|❌|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) **(Easy)** | Answer |
-|❌|[Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)** | Answer |
-|❌|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) **(Easy)** | Answer |
-|❌|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)** | Answer |
-|❌|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | Answer |
-|❌|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)** | Answer |
-|❌|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer |
-|❌|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer |
-|❌|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer |
-|❌|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer |
-|❌|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer |
-|❌|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer |
-|❌|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer |
-|❌|[Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)** | Answer |
+| Status | Question & Submission Link | My Implementation                               |
+| ------ | -------------------------- |-------------------------------------------------|
+|❌|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) **(Easy)** | Answer                                          |
+|❌|[Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)** | Answer                                          |
+|❌|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) **(Easy)** | Answer                                          |
+|❌|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)** | Answer                                          |
+|❌|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | Answer                                          |
+|✔|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)** | [Answer](src/binary-tree-level-order-traversal) |
+|❌|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer                                          |
+|❌|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer                                          |
+|❌|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) **(Medium)** | Answer                                          |
+|❌|[Implement Trie, i.e. Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) **(Medium)** | Answer                                          |
+|❌|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) **(Medium)** | Answer                                          |
+|❌|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) **(Hard)** | Answer                                          |
+|❌|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) **(Hard)** | Answer                                          |
+|❌|[Word Search II](https://leetcode.com/problems/word-search-ii/) **(Hard)** | Answer                                          |
 
 ### Graph
 
