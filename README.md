@@ -128,13 +128,13 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Binary
 
-| Status | Question & Submission Link | My C++ Implementation |
-| ------ | -------------------------- |-----------------------|
-|❌|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | Answer                |
-|❌|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer                |
-|❌|[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | Answer                |
-|❌|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | Answer                |
-|❌|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer                |
+| Status | Question & Submission Link | My C++ Implementation             |
+| ------ | -------------------------- |-----------------------------------|
+|❌|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | [Answer](src/sum-of-two-integers) |
+|❌|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer                            |
+|❌|[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | Answer                            |
+|❌|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | Answer                            |
+|❌|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer                            |
 
 <br/>
 
