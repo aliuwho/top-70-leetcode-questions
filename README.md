@@ -11,14 +11,14 @@ All solutions here are my own.**
 The following curated list is ordered by topics. Clicking on the
 **question title** takes you to the corresponding LeetCode submission
 page. Clicking on each **Answer** takes you to a short
-markdown file explaining my thought process, and an attached program that 
+markdown file explaining my thought process, and an attached program (most likely in Python or Golang) that 
 is guaranteed to be correct on the LeetCode platform.
 
 P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Array
 
-| Status | Question & Submission Link | My C++ Implementation |
+| Status | Question & Submission Link | My Implementation |
 | ------ | -------------------------- | --------------------- |
 |❌| [Two Sum](https://leetcode.com/problems/two-sum/) **(Easy)** | Answer |
 |❌| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) **(Easy)** | Answer |
@@ -33,7 +33,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### String
 
-| Status | Question & Submission Link | My C++ Implementation |
+| Status | Question & Submission Link | My Implementation |
 | ------ | -------------------------- | --------------------- |
 |❌| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy )** | Answer |
 |❌| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | Answer |
@@ -48,7 +48,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Dynamic Programming
 
-| Status | Question & Submission Link | My C++ Implementation      |
+| Status | Question & Submission Link | My Implementation      |
 | ------ | -------------------------- |----------------------------|
 |❌|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** | Answer                     |
 |❌|[House Robber](https://leetcode.com/problems/house-robber/) **(Medium)** | [Answer](src/house-robber) |
@@ -64,7 +64,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Linked List
 
-| Status | Question & Submission Link | My C++ Implementation |
+| Status | Question & Submission Link | My Implementation |
 | ------ | -------------------------- | --------------------- |
 |❌|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) **(Easy)** | Answer|
 |❌|[Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) **(Easy)** | Answer |
@@ -74,7 +74,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Interval
 
-| Status | Question & Submission Link | My C++ Implementation |
+| Status | Question & Submission Link | My Implementation |
 | ------ | -------------------------- | --------------------- |
 |❌|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) **(Medium)** |Answer|
 |❌|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) **(Medium)** |Answer|
@@ -82,7 +82,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Matrix
 
-| Status | Question & Submission Link | My C++ Implementation |
+| Status | Question & Submission Link | My Implementation |
 | ------ | -------------------------- | --------------------- |
 |❌|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) **(Medium)** | Answer |
 |❌|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) **(Medium)** | Answer |
@@ -91,7 +91,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Heap
 
-| Status | Question & Submission Link | My C++ Implementation |
+| Status | Question & Submission Link | My Implementation |
 | ------ | -------------------------- | --------------------- |
 |❌|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) **(Medium)** | Answer |
 |❌|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) **(Hard)** | Answer |
@@ -99,7 +99,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Tree
 
-| Status | Question & Submission Link | My C++ Implementation |
+| Status | Question & Submission Link | My Implementation |
 | ------ | -------------------------- | --------------------- |
 |❌|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) **(Easy)** | Answer |
 |❌|[Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)** | Answer |
@@ -118,7 +118,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Graph
 
-| Status | Question & Submission Link | My C++ Implementation           |
+| Status | Question & Submission Link | My Implementation           |
 | ------ | -------------------------- |---------------------------------|
 |✔|[Number of Islands](https://leetcode.com/problems/number-of-islands/) **(Medium)** | [Answer](src/number-of-islands) |
 |❌|[Clone Graph](https://leetcode.com/problems/clone-graph/) **(Medium)** | Answer                          |
@@ -128,7 +128,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Binary
 
-| Status | Question & Submission Link | My C++ Implementation             |
+| Status | Question & Submission Link | My Implementation             |
 | ------ | -------------------------- |-----------------------------------|
 |❌|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | [Answer](src/sum-of-two-integers) |
 |❌|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer                            |
