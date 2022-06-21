@@ -33,18 +33,18 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### String
 
-| Status | Question & Submission Link | My Implementation |
-| ------ | -------------------------- | --------------------- |
-|❌| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy )** | Answer |
-|❌| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | Answer |
-|❌| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | Answer |
-|❌| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | Answer |
-|❌| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | Answer |
-|❌| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | Answer |
-|❌| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** | Answer |
-|❌| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** | Answer |
-|❌| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** |Answer|
-|❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard )** |Answer|
+| Status | Question & Submission Link | My Implementation                                   |
+| ------ | -------------------------- |-----------------------------------------------------|
+|❌| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy )** | Answer                                              |
+|❌| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | Answer                                              |
+|❌| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | Answer                                              |
+|❌| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | Answer                                              |
+|❌| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | Answer                                              |
+|❌| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | Answer                                              |
+|❌| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** | Answer                                              |
+|❌| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** | Answer                                              |
+|✔| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** | [Answer](src/letter-combinations-of-a-phone-number) |
+|❌| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) **(Hard )** | Answer                                              |
 
 ### Dynamic Programming
 
