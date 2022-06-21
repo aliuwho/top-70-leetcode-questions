@@ -18,18 +18,18 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Array
 
-| Status | Question & Submission Link | My Implementation |
-| ------ | -------------------------- | --------------------- |
-|❌| [Two Sum](https://leetcode.com/problems/two-sum/) **(Easy)** | Answer |
-|❌| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) **(Easy)** | Answer |
-|❌| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)** | Answer |
-|❌| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) **(Easy)** | Answer |
-|❌| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **(Medium)** | Answer |
-|❌| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)** | Answer |
-|❌| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) **(Medium)** | Answer |
-|❌| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) **(Medium)** | Answer |
-|❌| [3Sum](https://leetcode.com/problems/3sum/) **(Medium)** | Answer |
-|❌| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **(Medium)** | Answer |
+| Status | Question & Submission Link | My Implementation     |
+| ------ | -------------------------- |-----------------------|
+|✔| [Two Sum](https://leetcode.com/problems/two-sum/) **(Easy)** | [Answer](src/two-sum) |
+|❌| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) **(Easy)** | Answer                |
+|❌| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) **(Easy)** | Answer                |
+|❌| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) **(Easy)** | Answer                |
+|❌| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **(Medium)** | Answer                |
+|❌| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) **(Medium)** | Answer                |
+|❌| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) **(Medium)** | Answer                |
+|❌| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) **(Medium)** | Answer                |
+|❌| [3Sum](https://leetcode.com/problems/3sum/) **(Medium)** | Answer                |
+|❌| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **(Medium)** | Answer                |
 
 ### String
 
