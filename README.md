@@ -51,7 +51,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My Implementation      |
 | ------ | -------------------------- |----------------------------|
 |❌|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) **(Easy)** | Answer                     |
-|❌|[House Robber](https://leetcode.com/problems/house-robber/) **(Medium)** | [Answer](src/house-robber) |
+|✔|[House Robber](https://leetcode.com/problems/house-robber/) **(Medium)** | [Answer](src/house-robber) |
 |❌|[Coin Change](https://leetcode.com/problems/coin-change/) **(Medium)** | Answer                     |
 |❌|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) **(Medium)** | Answer                     |
 |❌|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) **(Medium)** | Answer                     |
@@ -128,10 +128,10 @@ P.S. Safely ignore the "Status". It's for my personal use.
 
 ### Binary
 
-| Status | Question & Submission Link | My Implementation             |
+| Status | Question & Submission Link | My Implementation                 |
 | ------ | -------------------------- |-----------------------------------|
-|❌|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | [Answer](src/sum-of-two-integers) |
-|❌|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer                            |
+|✔|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | [Answer](src/sum-of-two-integers) |
+|✔|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | [Answer](src/number-of-1-bits)    |
 |❌|[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | Answer                            |
 |❌|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | Answer                            |
 |❌|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer                            |
