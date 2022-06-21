@@ -40,7 +40,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 |❌| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | Answer                                              |
 |❌| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | Answer                                              |
 |❌| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | Answer                                              |
-|❌| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | Answer                                              |
+|✔| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **(Medium )** | [Answer](src/group-anagrams)                        |
 |❌| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) **(Medium )** | Answer                                              |
 |❌| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) **(Medium )** | Answer                                              |
 |✔| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) **(Medium )** | [Answer](src/letter-combinations-of-a-phone-number) |
