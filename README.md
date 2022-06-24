@@ -36,7 +36,7 @@ P.S. Safely ignore the "Status". It's for my personal use.
 | Status | Question & Submission Link | My Implementation                                   |
 | ------ | -------------------------- |-----------------------------------------------------|
 |❌| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) **(Easy )** | Answer                                              |
-|❌| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | Answer                                              |
+|✔| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) **(Easy )** | [Answer](src/valid-parentheses)                     |
 |❌| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) **(Easy )** | Answer                                              |
 |❌| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) **(Medium )** | Answer                                              |
 |❌| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) **(Medium )** | Answer                                              |
